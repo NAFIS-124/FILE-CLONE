@@ -1,1 +1,1 @@
-print('OFF Fuck BD🤧🤮')
+import op
