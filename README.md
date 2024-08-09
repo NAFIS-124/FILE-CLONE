@@ -2,9 +2,11 @@
 
 rm -rf FILE-CLONE
 
-git clone https://github.com/NAFIS-124/FILE-CLONE
+git clone https://github.com/NAFIS-124/FILE-CLONE.git
 
 cd  FILE-CLONE
+
+git pull
 
 python3 HENTAI.sh
 
