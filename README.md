@@ -28,6 +28,6 @@ This Tools Working Only 64bit Mobile!
 
 ## :telephone_receiver: Contact Information
 
-- **Email**: [Admin](bdnafis00@gmail.com)
+- **Whatsapp**: [Admin](https://wa.me/+8801861367215)
 <br> [![Facebook](https://img.shields.io/badge/Facebook-TEAM69.HENTAI-blue?style=flat-square&logo=facebook)](https://www.facebook.com/TEAM69.HENTAI)
 
